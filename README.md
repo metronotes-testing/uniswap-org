@@ -1,4 +1,4 @@
-# uniswap-org
+# metroswap-org
 
 Contains the source code for the [uniswap.org](https://uniswap.org) homepage.
 
